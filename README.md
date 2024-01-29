@@ -1,4 +1,4 @@
-[![Coverage](.github/badges/jacoco.svg)](https://github.com/luizpaulino/flix/actions/workflows/build.yml)
+| __JaCoCo Test Coverage__ | [![coverage](https://raw.githubusercontent.com/luizpaulino/flix/badges/jacoco.svg)](https://github.com/luizpaulino/flix/actions/workflows/build.yml)
 ## Setup e uso da aplicação
 
 - Requisitos:
